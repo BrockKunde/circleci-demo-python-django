@@ -7,7 +7,7 @@ name = "pypi"
 
 [packages]
 
-dj-database-url = "*"
+dj-database-url = " "
 django = "*"
 gunicorn = "*"
 psycopg2-binary = "*"
@@ -17,3 +17,4 @@ unittest-xml-reporting = "*"
 
 [dev-packages]
 
+ 
